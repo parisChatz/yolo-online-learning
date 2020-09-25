@@ -1,0 +1,9 @@
+[submodule "people"]
+	path = people
+	url = https://github.com/wg-perception/people.git
+[submodule "wu_ros_tools"]
+	path = wu_ros_tools
+	url = https://github.com/DLu/wu_ros_tools.git
+[submodule "darknet_ros"]
+	path = darknet_ros
+	url = https://github.com/parisChatz/darknet_ros.git
