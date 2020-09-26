@@ -7,3 +7,6 @@
 [submodule "darknet_ros"]
 	path = darknet_ros
 	url = https://github.com/parisChatz/darknet_ros.git
+[submodule "online_learning"]
+	path = online_learning
+	url = https://github.com/parisChatz/online_learning.git
